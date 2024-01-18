@@ -5,7 +5,7 @@
 Файл прилагается в папке "programs".
 ![screen paskal](https://github.com/andnpok/andnpok/assets/156174901/91bc9cdf-e8fa-4f82-bf6b-239c196c61b1)  
 My page on [Github](https://andnpok.github.io/hello/).  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annblok) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/annblok_webdev)
+
 <!--
 **andnpok/andnpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
