@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![IMG_20240118_145032](https://github.com/andnpok/andnpok/assets/156174901/ca6a1af6-ec41-48dc-9744-44a7d81f74f9)
 
-My name is Andrei.
+Для того, чтобы проверить знание таблицы умножения у дочки, пришлось вспомнить, что проходили в школе.
+![screen paskal](https://github.com/andnpok/andnpok/assets/156174901/91bc9cdf-e8fa-4f82-bf6b-239c196c61b1)
+
 <!--
 **andnpok/andnpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
