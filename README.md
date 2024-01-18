@@ -1,4 +1,5 @@
 ### Hi there 👋
+![IMG_20240118_145032](https://github.com/andnpok/andnpok/assets/156174901/ca6a1af6-ec41-48dc-9744-44a7d81f74f9)
 
 <!--
 **andnpok/andnpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
