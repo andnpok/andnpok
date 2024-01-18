@@ -2,6 +2,7 @@
 ![IMG_20240118_145032](https://github.com/andnpok/andnpok/assets/156174901/ca6a1af6-ec41-48dc-9744-44a7d81f74f9)
 
 Для того, чтобы проверить знание таблицы умножения у дочки, пришлось вспомнить, что проходили в школе.
+Файл прилагается в папке "programs".
 ![screen paskal](https://github.com/andnpok/andnpok/assets/156174901/91bc9cdf-e8fa-4f82-bf6b-239c196c61b1)
 
 <!--
