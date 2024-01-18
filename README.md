@@ -3,8 +3,8 @@
 
 Для того, чтобы проверить знание таблицы умножения у дочки, пришлось вспомнить, что проходили в школе.  
 Файл прилагается в папке "programs".
-![screen paskal](https://github.com/andnpok/andnpok/assets/156174901/91bc9cdf-e8fa-4f82-bf6b-239c196c61b1)
-
+![screen paskal](https://github.com/andnpok/andnpok/assets/156174901/91bc9cdf-e8fa-4f82-bf6b-239c196c61b1)  
+My page on [Github](https://andnpok.github.io/hello/).
 <!--
 **andnpok/andnpok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
